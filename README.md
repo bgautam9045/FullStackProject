@@ -42,3 +42,4 @@ Us page, Blog Page. This Responsive site is easy to operate and user friendly.
 ## LIVE LINK-:
 
 https://naina2910.github.io/FullStackProject/
+ https://bgautam9045.github.io/FullStackProject/
